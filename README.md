@@ -2,7 +2,6 @@
 - uses the depth first search algorithm to find the solution, can solve hard sudoku puzzles  
 - freeCodeCamp project solution on Backend Development/APIs and Quality Assurance 
 https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver
-- [live demo](https://clipchamp.com/watch/KzHK0zzOggP)
 
 ## How to use
 1. Create a **.env** or appropriate file and set up your environment similar to how it's set up in the **example.env** file in this repository
